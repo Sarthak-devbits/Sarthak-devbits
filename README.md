@@ -37,7 +37,7 @@
 
 ## Connect with me:
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pratik-kamble-7b0798211/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sarthak-naik-927342203/)
 
 <!-- [![instagram](https://skillicons.dev/icons?i=instagram)](https://jsmastery.pro) -->
 
